@@ -40,3 +40,6 @@ itwill2.txt 삭제한 후 아래와 같이 입력하면 다시 생성됨
 > git checkout c307c32
 > git checkout c307c32 itwill2.txt
 
+
+
+18:13 내용 추가
